@@ -1,0 +1,1107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d36125ed-5dc9-4d33-b6f2-c5d14bae1616" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/day59multiClient/src/client.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="46">
+              <caret line="91" column="25" selection-start-line="91" selection-start-column="25" selection-end-line="91" selection-end-column="25" />
+              <folding>
+                <element signature="e#0#13#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/struture/Without_Repeating_Characters.py">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/struture/test_median.py">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/struture/prefix_find.py">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/struture/palindromic_num.py">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/struture/palindromic.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="4" selection-start-column="4" selection-end-column="4" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/day16.py">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/day16/列表生成器.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="250">
+              <caret line="10" column="9" lean-forward="true" selection-start-line="10" selection-start-column="9" selection-end-line="10" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/day16/os模块.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="400">
+              <caret line="28" column="14" selection-start-line="28" selection-start-column="14" selection-end-line="28" selection-end-column="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/day59client/src/client.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1375">
+              <caret line="58" selection-start-line="58" selection-end-line="58" />
+              <folding>
+                <element signature="e#0#13#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>jo</find>
+      <find>join</find>
+      <find>class</find>
+      <find>enumerate</find>
+      <find>enume</find>
+      <find>run</find>
+      <find>print(333)</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/day56/test.html" />
+        <option value="$PROJECT_DIR$/day56/ajax_text.html" />
+        <option value="$PROJECT_DIR$/day21/json_dump_test.py" />
+        <option value="$PROJECT_DIR$/day57/05 模拟登陆.py" />
+        <option value="$PROJECT_DIR$/day21/test1.py" />
+        <option value="$PROJECT_DIR$/day24/面向对象.py" />
+        <option value="$PROJECT_DIR$/day57/111.html" />
+        <option value="$PROJECT_DIR$/day14/深浅拷贝.py" />
+        <option value="$PROJECT_DIR$/day57/daike.html" />
+        <option value="$PROJECT_DIR$/day57/redis_test.py" />
+        <option value="$PROJECT_DIR$/struture/name_add.py" />
+        <option value="$PROJECT_DIR$/struture/Without_Repeating_Characters.py" />
+        <option value="$PROJECT_DIR$/struture/test_median.py" />
+        <option value="$PROJECT_DIR$/struture/palindromic_num.py" />
+        <option value="$PROJECT_DIR$/struture/most_water.py" />
+        <option value="$PROJECT_DIR$/struture/number_to_Roman.py" />
+        <option value="$PROJECT_DIR$/struture/prefix_find.py" />
+        <option value="$PROJECT_DIR$/struture/lession_listnode.py" />
+        <option value="$PROJECT_DIR$/day58/test_set.py" />
+        <option value="$PROJECT_DIR$/struture/filter_dubble.py" />
+        <option value="$PROJECT_DIR$/struture/filter_double.py" />
+        <option value="$PROJECT_DIR$/struture/bracket_produce.py" />
+        <option value="$PROJECT_DIR$/day59.py" />
+        <option value="$PROJECT_DIR$/day59/bin/program.py" />
+        <option value="$PROJECT_DIR$/day26/serve.py" />
+        <option value="$PROJECT_DIR$/day27/server.py" />
+        <option value="$PROJECT_DIR$/day22/lxl_ATM/core/test.py" />
+        <option value="$PROJECT_DIR$/day28/同步锁.py" />
+        <option value="$PROJECT_DIR$/day28/死锁和递归锁.py" />
+        <option value="$PROJECT_DIR$/day28/信号量.py" />
+        <option value="$PROJECT_DIR$/day24/test.py" />
+        <option value="$PROJECT_DIR$/day28/条件变量.py" />
+        <option value="$PROJECT_DIR$/day28/test.py" />
+        <option value="$PROJECT_DIR$/day25/test.py" />
+        <option value="$PROJECT_DIR$/day59/config/settings.py" />
+        <option value="$PROJECT_DIR$/day59client/config/settings.py" />
+        <option value="$PROJECT_DIR$/day28/队列.py" />
+        <option value="$PROJECT_DIR$/day27/threading_test.py" />
+        <option value="$PROJECT_DIR$/day59/src/service.py" />
+        <option value="$PROJECT_DIR$/day07/encode_py3.py" />
+        <option value="$PROJECT_DIR$/day06/class_dict.py" />
+        <option value="$PROJECT_DIR$/day08/class_file.py" />
+        <option value="$PROJECT_DIR$/day59client/src/client.py" />
+        <option value="$PROJECT_DIR$/day59multi/src/service.py" />
+        <option value="$PROJECT_DIR$/day60/file_test.py" />
+        <option value="$PROJECT_DIR$/day59multiClient/src/client.py" />
+        <option value="$PROJECT_DIR$/struture/palindromic.py" />
+        <option value="$PROJECT_DIR$/day16.py" />
+        <option value="$PROJECT_DIR$/day16/os.py" />
+        <option value="$PROJECT_DIR$/day16/os模块.py" />
+        <option value="$PROJECT_DIR$/day16/列表生成器.py" />
+      </list>
+    </option>
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="796" />
+    <option name="y" value="-3" />
+    <option name="width" value="1100" />
+    <option name="height" value="1103" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <showMembers ProjectPane="true" />
+      <autoscrollToSource ProjectPane="true" />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="old boy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="old boy" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="old boy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="old boy" type="462c0819:PsiDirectoryNode" />
+              <item name="day06" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="old boy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="old boy" type="462c0819:PsiDirectoryNode" />
+              <item name="day07" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="old boy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="old boy" type="462c0819:PsiDirectoryNode" />
+              <item name="day08" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="old boy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="old boy" type="462c0819:PsiDirectoryNode" />
+              <item name="day14" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="old boy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="old boy" type="462c0819:PsiDirectoryNode" />
+              <item name="day16" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="old boy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="old boy" type="462c0819:PsiDirectoryNode" />
+              <item name="day21" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="old boy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="old boy" type="462c0819:PsiDirectoryNode" />
+              <item name="day22" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="old boy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="old boy" type="462c0819:PsiDirectoryNode" />
+              <item name="day24" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="old boy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="old boy" type="462c0819:PsiDirectoryNode" />
+              <item name="day25" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="old boy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="old boy" type="462c0819:PsiDirectoryNode" />
+              <item name="day26" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="old boy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="old boy" type="462c0819:PsiDirectoryNode" />
+              <item name="day27" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="old boy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="old boy" type="462c0819:PsiDirectoryNode" />
+              <item name="day28" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="old boy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="old boy" type="462c0819:PsiDirectoryNode" />
+              <item name="day29" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="old boy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="old boy" type="462c0819:PsiDirectoryNode" />
+              <item name="day56" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="old boy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="old boy" type="462c0819:PsiDirectoryNode" />
+              <item name="day57" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="old boy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="old boy" type="462c0819:PsiDirectoryNode" />
+              <item name="day57" type="462c0819:PsiDirectoryNode" />
+              <item name="statics" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="old boy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="old boy" type="462c0819:PsiDirectoryNode" />
+              <item name="day58" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="old boy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="old boy" type="462c0819:PsiDirectoryNode" />
+              <item name="day59" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="old boy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="old boy" type="462c0819:PsiDirectoryNode" />
+              <item name="day59" type="462c0819:PsiDirectoryNode" />
+              <item name="bin" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="old boy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="old boy" type="462c0819:PsiDirectoryNode" />
+              <item name="day59" type="462c0819:PsiDirectoryNode" />
+              <item name="config" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="old boy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="old boy" type="462c0819:PsiDirectoryNode" />
+              <item name="day59" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="old boy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="old boy" type="462c0819:PsiDirectoryNode" />
+              <item name="day59client" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="old boy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="old boy" type="462c0819:PsiDirectoryNode" />
+              <item name="day59client" type="462c0819:PsiDirectoryNode" />
+              <item name="config" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="old boy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="old boy" type="462c0819:PsiDirectoryNode" />
+              <item name="day59client" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="old boy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="old boy" type="462c0819:PsiDirectoryNode" />
+              <item name="day59multi" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="old boy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="old boy" type="462c0819:PsiDirectoryNode" />
+              <item name="day59multi" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="old boy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="old boy" type="462c0819:PsiDirectoryNode" />
+              <item name="day59multiClient" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="old boy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="old boy" type="462c0819:PsiDirectoryNode" />
+              <item name="day59multiClient" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="old boy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="old boy" type="462c0819:PsiDirectoryNode" />
+              <item name="day60" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="old boy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="old boy" type="462c0819:PsiDirectoryNode" />
+              <item name="struture" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="old boy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file://F:/old boy/day21/shelve_test.py" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../git/chouti_instance" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.tools" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\old boy\day36" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\old boy\day27" />
+      <recent name="F:\old boy\day57\statics" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.列表生成器">
+    <configuration name="列表生成器" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="old boy" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/day16" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/day16/列表生成器.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="信号量" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="old boy" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/day28" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/day28/信号量.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="面向对象" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="old boy" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/day24" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/day24/面向对象.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="异常处理" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="old boy" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/day25" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/day25/异常处理.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="单例模式" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="old boy" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/day25" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/day25/单例模式.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="面向对象" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="old boy" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/day24" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/day24/面向对象.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="面向对象" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="old boy" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/day24" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/day24/面向对象.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="class_file" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="old boy" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/day08" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/day08/class_file.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="encode_py3" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="old boy" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/day07" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/day07/encode_py3.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="file_test" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="old boy" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/day60" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/day60/file_test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="os模块" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="old boy" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/day16" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/day16/os模块.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.class_file" />
+      <item itemvalue="Python.encode_py3" />
+      <item itemvalue="Python.file_test" />
+      <item itemvalue="Python.列表生成器" />
+      <item itemvalue="Python.os模块" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.列表生成器" />
+        <item itemvalue="Python.os模块" />
+        <item itemvalue="Python.file_test" />
+        <item itemvalue="Python.class_file" />
+        <item itemvalue="Python.encode_py3" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d36125ed-5dc9-4d33-b6f2-c5d14bae1616" name="Default" comment="" />
+      <created>1553091938518</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1553091938518</updated>
+      <workItem from="1557285704695" duration="746000" />
+      <workItem from="1557384056359" duration="603000" />
+      <workItem from="1557405420222" duration="598000" />
+      <workItem from="1557414393307" duration="621000" />
+      <workItem from="1557456740813" duration="3384000" />
+      <workItem from="1557465408319" duration="793000" />
+      <workItem from="1557477946043" duration="687000" />
+      <workItem from="1557546975797" duration="1342000" />
+      <workItem from="1557634658902" duration="582000" />
+      <workItem from="1557837935816" duration="1411000" />
+      <workItem from="1557845950875" duration="597000" />
+      <workItem from="1557875055827" duration="616000" />
+      <workItem from="1558056138952" duration="607000" />
+      <workItem from="1558358357765" duration="626000" />
+      <workItem from="1558400244824" duration="611000" />
+      <workItem from="1558447376505" duration="3423000" />
+      <workItem from="1558485950938" duration="4917000" />
+      <workItem from="1558499325522" duration="669000" />
+      <workItem from="1558515690142" duration="717000" />
+      <workItem from="1558602357924" duration="644000" />
+      <workItem from="1558624641622" duration="704000" />
+      <workItem from="1558660021741" duration="8585000" />
+      <workItem from="1558791197029" duration="3363000" />
+      <workItem from="1558838763485" duration="597000" />
+      <workItem from="1558864763642" duration="870000" />
+      <workItem from="1558922962555" duration="3015000" />
+      <workItem from="1558955179527" duration="708000" />
+      <workItem from="1559004819798" duration="290000" />
+      <workItem from="1559005129563" duration="19000" />
+      <workItem from="1560216319996" duration="5032000" />
+      <workItem from="1560253796731" duration="689000" />
+      <workItem from="1560491687797" duration="1541000" />
+      <workItem from="1561188408353" duration="598000" />
+      <workItem from="1561714667993" duration="1827000" />
+      <workItem from="1563611417458" duration="18940000" />
+      <workItem from="1564195176624" duration="14141000" />
+      <workItem from="1564224582048" duration="4256000" />
+      <workItem from="1564814049682" duration="14829000" />
+      <workItem from="1564886895254" duration="8776000" />
+      <workItem from="1565415951766" duration="501000" />
+      <workItem from="1565421821794" duration="4345000" />
+      <workItem from="1565432647267" duration="1073000" />
+      <workItem from="1565506357799" duration="780000" />
+      <workItem from="1566475601101" duration="4506000" />
+      <workItem from="1566568365589" duration="2063000" />
+      <workItem from="1566616841066" duration="1373000" />
+      <workItem from="1566796869416" duration="26807000" />
+      <workItem from="1566904626498" duration="5121000" />
+      <workItem from="1566966291681" duration="2960000" />
+      <workItem from="1566969901809" duration="16806000" />
+      <workItem from="1567042822568" duration="81304000" />
+      <workItem from="1567224662646" duration="6995000" />
+      <workItem from="1567236548159" duration="270000" />
+      <workItem from="1567237277607" duration="914000" />
+      <workItem from="1567254858244" duration="11002000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="279794000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.7883895" visible="true" weight="0.27345845" />
+      <window_info id="Structure" order="1" sideWeight="0.21161048" side_tool="true" weight="0.16286863" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info id="DB Browser" order="3" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.24328147" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3960396" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Python Console" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.32956153" />
+      <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Docker" order="11" show_stripe_button="false" />
+      <window_info anchor="bottom" id="DB Execution Console" order="12" />
+      <window_info anchor="bottom" id="Database Changes" order="13" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" />
+      <window_info anchor="right" id="SciView" order="4" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/day59client/src/client.py</url>
+          <line>40</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/old_boy$client__1_.coverage" NAME="client (1) Coverage Results" MODIFIED="1566981882319" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day59client/src" />
+    <SUITE FILE_PATH="coverage/old_boy$test__1_.coverage" NAME="test (1) Coverage Results" MODIFIED="1567007977770" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day25" />
+    <SUITE FILE_PATH="coverage/old_boy$client.coverage" NAME="client Coverage Results" MODIFIED="1567085224045" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day59client/src" />
+    <SUITE FILE_PATH="coverage/old_boy$serve.coverage" NAME="serve Coverage Results" MODIFIED="1566805760815" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day26" />
+    <SUITE FILE_PATH="coverage/old_boy$Without_Repeating_Characters.coverage" NAME="Without_Repeating_Characters Coverage Results" MODIFIED="1564208289523" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/struture" />
+    <SUITE FILE_PATH="coverage/old_boy$prefix_find.coverage" NAME="prefix_find Coverage Results" MODIFIED="1564890334388" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/struture" />
+    <SUITE FILE_PATH="coverage/old_boy$encodePy2.coverage" NAME="encodePy2 Coverage Results" MODIFIED="1557285821415" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day07" />
+    <SUITE FILE_PATH="coverage/old_boy$client1.coverage" NAME="client1 Coverage Results" MODIFIED="1566805475213" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day27" />
+    <SUITE FILE_PATH="coverage/old_boy$name_add.coverage" NAME="name_add Coverage Results" MODIFIED="1563630190541" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/struture" />
+    <SUITE FILE_PATH="coverage/old_boy$threading_test.coverage" NAME="threading_test Coverage Results" MODIFIED="1567142624514" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day27" />
+    <SUITE FILE_PATH="coverage/old_boy$json_dump_test.coverage" NAME="json_dump_test Coverage Results" MODIFIED="1557549837166" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day21" />
+    <SUITE FILE_PATH="coverage/old_boy$filter_double.coverage" NAME="filter_double Coverage Results" MODIFIED="1565426610976" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/struture" />
+    <SUITE FILE_PATH="coverage/old_boy$bracket_produce.coverage" NAME="bracket_produce Coverage Results" MODIFIED="1566617345955" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/struture" />
+    <SUITE FILE_PATH="coverage/old_boy$file_test.coverage" NAME="file_test Coverage Results" MODIFIED="1567238362155" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day60" />
+    <SUITE FILE_PATH="coverage/old_boy$server.coverage" NAME="server Coverage Results" MODIFIED="1566805452982" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day27" />
+    <SUITE FILE_PATH="coverage/old_boy$service.coverage" NAME="service Coverage Results" MODIFIED="1566833607211" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day59/src" />
+    <SUITE FILE_PATH="coverage/old_boy$number_to_Roman.coverage" NAME="number_to_Roman Coverage Results" MODIFIED="1564847052632" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/struture" />
+    <SUITE FILE_PATH="coverage/old_boy$program.coverage" NAME="program Coverage Results" MODIFIED="1566797209028" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day59/bin" />
+    <SUITE FILE_PATH="coverage/old_boy$class_file.coverage" NAME="class_file Coverage Results" MODIFIED="1567220572415" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day08" />
+    <SUITE FILE_PATH="coverage/old_boy$.coverage" NAME="列表生成器 Coverage Results" MODIFIED="1567271492158" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day16" />
+    <SUITE FILE_PATH="coverage/old_boy$test_median.coverage" NAME="test_median Coverage Results" MODIFIED="1564302971553" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/struture" />
+    <SUITE FILE_PATH="coverage/old_boy$_server.coverage" NAME="文件传输_server Coverage Results" MODIFIED="1566798715913" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day26" />
+    <SUITE FILE_PATH="coverage/old_boy$cmd_serve.coverage" NAME="cmd_serve Coverage Results" MODIFIED="1566798833908" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day26" />
+    <SUITE FILE_PATH="coverage/old_boy$palindromic_num.coverage" NAME="palindromic_num Coverage Results" MODIFIED="1564822284990" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/struture" />
+    <SUITE FILE_PATH="coverage/old_boy$lession_listnode.coverage" NAME="lession_listnode Coverage Results" MODIFIED="1565422739477" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/struture" />
+    <SUITE FILE_PATH="coverage/old_boy$_client.coverage" NAME="文件传输_client Coverage Results" MODIFIED="1566798724982" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day26" />
+    <SUITE FILE_PATH="coverage/old_boy$palindromic.coverage" NAME="palindromic Coverage Results" MODIFIED="1564817758513" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/struture" />
+    <SUITE FILE_PATH="coverage/old_boy$redis_test.coverage" NAME="redis_test Coverage Results" MODIFIED="1563611567068" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day57" />
+    <SUITE FILE_PATH="coverage/old_boy$os.coverage" NAME="os模块 Coverage Results" MODIFIED="1567267257207" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day16" />
+    <SUITE FILE_PATH="coverage/old_boy$test.coverage" NAME="test Coverage Results" MODIFIED="1567005970861" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day28" />
+    <SUITE FILE_PATH="coverage/old_boy$most_water.coverage" NAME="most_water Coverage Results" MODIFIED="1564841599846" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/struture" />
+    <SUITE FILE_PATH="coverage/old_boy$test_set.coverage" NAME="test_set Coverage Results" MODIFIED="1565425061942" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day58" />
+    <SUITE FILE_PATH="coverage/old_boy$test1.coverage" NAME="test1 Coverage Results" MODIFIED="1558672302098" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day21" />
+    <SUITE FILE_PATH="coverage/old_boy$encode_py3.coverage" NAME="encode_py3 Coverage Results" MODIFIED="1567164753024" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day07" />
+    <SUITE FILE_PATH="coverage/old_boy$cmd_client.coverage" NAME="cmd_client Coverage Results" MODIFIED="1566805842721" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day26" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/../python/Lib/queue.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="619">
+          <caret line="146" column="8" selection-start-line="146" selection-start-column="8" selection-end-line="146" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day29/prcoess_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#35#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day28/队列.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="334">
+          <caret line="23" column="44" selection-start-line="23" selection-start-column="44" selection-end-line="23" selection-end-column="44" />
+          <folding>
+            <element signature="e#0#12#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day59client/config/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="9" column="20" selection-start-line="9" selection-start-column="20" selection-end-line="9" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day08/process_bar.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day26/文件传输_server.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="55" column="22" lean-forward="true" selection-start-line="55" selection-start-column="22" selection-end-line="55" selection-end-column="22" />
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day25/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="248">
+          <caret line="41" column="14" selection-start-line="41" selection-start-column="14" selection-end-line="41" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day21/JSON_DUMP">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day21/json_dump_test.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day21/shelve.bak">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day07/字符编码">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day07/encodePy2.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day07/encode_py3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="50">
+          <caret line="2" column="35" selection-start-line="2" selection-start-column="35" selection-end-line="2" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.PyCharm2019.1/system/python_stubs/-1308658677/builtins.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-356">
+          <caret line="341" column="4" selection-start-line="341" selection-start-column="4" selection-end-line="341" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day06/shopping.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day26/serve.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day06/class_dict.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-200">
+          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day26/subprocess_test.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day28/死锁和递归锁.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" />
+          <folding>
+            <element signature="e#0#16#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day26/client.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="5" column="19" lean-forward="true" selection-start-line="5" selection-start-column="19" selection-end-line="5" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day26/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day26/cmd_serve.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="163">
+          <caret line="57" column="17" selection-start-line="57" selection-start-column="17" selection-end-line="57" selection-end-column="17" />
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day28/条件变量.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1025">
+          <caret line="43" column="21" selection-start-line="43" selection-start-column="21" selection-end-line="43" selection-end-column="21" />
+          <folding>
+            <element signature="e#0#16#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day08/class_file.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="325">
+          <caret line="50" selection-start-line="50" selection-end-line="51" selection-end-column="15" />
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day27/threading_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="925">
+          <caret line="39" selection-start-line="39" selection-end-line="39" />
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day26/cmd_client.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="275">
+          <caret line="11" column="29" selection-start-line="11" selection-start-column="29" selection-end-line="11" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day28/threading_test2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day59/config/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="9" selection-start-line="9" selection-end-line="9" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day26/文件传输_client.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day57/daike.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-893" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day57/statics/jquery-3.3.1.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="50">
+          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day59/src/service.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-500">
+          <caret line="82" column="18" selection-start-line="82" selection-start-column="8" selection-end-line="82" selection-end-column="18" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day57/111.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day14/深浅拷贝.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day59/bin/program.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#14#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day59/bin/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day57/redis_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#12#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day59.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day60/file_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2375">
+          <caret line="98" selection-start-line="98" selection-end-line="98" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day57/05 模拟登陆.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day59multi/src/service.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3050">
+          <caret line="128" column="36" selection-start-line="128" selection-start-column="36" selection-end-line="128" selection-end-column="36" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day59client/src/client.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1375">
+          <caret line="58" selection-start-line="58" selection-end-line="58" />
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day59multiClient/src/client.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="46">
+          <caret line="91" column="25" selection-start-line="91" selection-start-column="25" selection-end-line="91" selection-end-column="25" />
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/struture/Without_Repeating_Characters.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/struture/test_median.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/struture/prefix_find.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/struture/palindromic_num.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/struture/palindromic.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="4" selection-start-column="4" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day16.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day16/os模块.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="400">
+          <caret line="28" column="14" selection-start-line="28" selection-start-column="14" selection-end-line="28" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day16/列表生成器.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="10" column="9" lean-forward="true" selection-start-line="10" selection-start-column="9" selection-end-line="10" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
