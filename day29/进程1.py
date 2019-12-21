@@ -1,5 +1,6 @@
 #进程间通信应该考虑PIPE和QUEUE
 from multiprocessing import Process
+
 import time
 start_time = time.time()
 def f(name):

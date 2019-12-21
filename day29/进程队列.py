@@ -6,7 +6,7 @@ import queue
 from multiprocessing import Process,Queue
 
 def f(q):
-    q.put([42,2,'hello'])
+    # q.put([42,2,'hello'])
     print(id(q))
     
 

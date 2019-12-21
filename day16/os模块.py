@@ -27,3 +27,9 @@ print(os.system('dir')) #运行shell命令
 print(os.path.split(r'E:\bookstore\lxlxl\tmd.txt'))
 print(os.path.dirname(r'E:\bookstore\lxlxl\tmd.txt')) #获取指定文件/文件夹所在的文件夹
 print(__file__)
+print(os.path.basename(r'E:\bookstore\lxlxl\tmd.txt')) #返回路径最后的文件名，如果是分割符结尾就返回空
+print(os.path.isabs(r'E:\bookstore\lxlxl\tmd.txt')) #如果path是绝对路径返回True
+print(os.path.exists(r'E:\bookstore\lxlxl\tmd.txt')) #如果path存在就返回True
+print(os.path.isdir(r'E:\bookstore\lxlxl\tmd.txt')) #判断path是否是一个文件夹
+print(os.path.getatime(r'E:\bookstore\lxlxl\tmd.txt')) #返回path指向的目录或者文件的最后存取时间
+print(os.path.getmtime(r'E:\bookstore\lxlxl\tmd.txt')) #返回path所指向的目录或者文件的最后修改时间

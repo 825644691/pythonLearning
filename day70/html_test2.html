@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <style type="text/css">
+        #div1{
+            background-color: red;
+            color: blue;
+            height: 600px;
+        }
+        #div2{
+            background-color: black;
+            color: blue;
+            height: 600px;
+        }
+        #div3{
+            background-color: yellow;
+            color: blue;
+            height: 600px;
+        }
+        a:link{
+            color: red;
+        }
+
+        a:hover{
+            color: yellow;
+        }
+
+        a:visited{
+            color: purple;
+        }
+        a:active{
+            color: green;
+        }
+        h1:before{
+            content: "shuai";
+        }
+        p{
+            font-size: 40px;
+            font-style: italic;
+            font-family: "Times New Roman";
+            background-color: red;
+            font-weight: initial;
+            background-image: url("favicon.ico");
+            background-repeat: no-repeat;
+            background-position: center;
+            background-size: 100px 100px;
+            text-align: center;
+            letter-spacing: 5px;
+            /*间隔5像素*/
+            word-spacing: -10px;
+            text-transform: capitalize;
+            line-height: 100px;
+            text-indent: 150px;
+        /*    首行缩进*/
+        }
+
+        span{
+            background: red;
+            display: inline-block;
+            /*同时具有内联的属性同一行显示多个 也具有块级属性，能调高宽 */
+            height: 300px;
+            width: 300px;
+            text-align: center;
+            line-height: 150px;
+
+        }
+    </style>
+</head>
+<body>
+<a href="#div1">标题一</a>
+<a href="#div2">标题二</a>
+<a href="#div3">标题三</a>
+<div id="div1">标题一</div>
+<div id="div2">标题二</div>
+<div id="div3">标题三</div>
+
+<div class="outer">
+    hello div
+    <p class="c1">p1   asdsad.....</p>
+    <div class="c2">
+        <p class="c1">p2....</p>
+    </div>
+</div>
+<span>asdaskdj</span>
+
+<a href="http://www.baidu.com">百度</a>
+<h1>lxl zhen </h1>
+</body>
+</html>

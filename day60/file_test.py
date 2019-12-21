@@ -1,7 +1,9 @@
 import os
 import subprocess
-import queue
+from multiprocessing import Queue, Pipe
+# import queue
 import json
+import pickle
 
 BASE_DIR = '/data2'
 
@@ -96,7 +98,20 @@ class Test:
 # def Foo():
 #     for i in range(10):
 #         yield i
-print(1 == '1')
+# print(1 == '1')
+
+# q = []
+# for i in range(10):
+#     q.append(i)
+# print(type(q))
+# q = pickle.dumps(q)
+# print(type(q))
+# q = pickle.loads(q)
+# print(type(q))
+# print(q.pop())
+# asd = Queue()
+# asd.put(1)
+# print(asd.get())
 
 
 
@@ -105,3 +120,13 @@ print(1 == '1')
 #     print(i)
 #
 # print(100)
+# parent_conn, child_conn = Pipe()
+#
+# child_conn.recv()
+# print(1)
+
+s = set()
+s.add(1)
+print(s)
+if 1 in s:
+    print(1)

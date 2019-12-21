@@ -10,7 +10,8 @@ class MyServer(socketserver.BaseRequestHandler):
             data = conn.recv(1024)
             if not data:break
             print(str(data,'utf8'))
-            conn.sendall(data)
+            inp = input('>>')
+            conn.sendall(inp.encode('utf-8'))
         conn.close()
 
 

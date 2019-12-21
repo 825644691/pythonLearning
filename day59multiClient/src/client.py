@@ -53,11 +53,12 @@ class MyClient:
                         print(2)
                         break
                     obj.sendall(bytes('a', 'utf-8'))
-                    data_len = 0
-                    data = []
+                    split_data = obj.recv(1024)
+                    data_len = len(split_data)
+                    next(MyClient.gen(data_size,data_len, split_data))
                     while data_len != int(data_size):
                         split_data = obj.recv(1024)
-                        data.append(split_data)
+                        MyClient.gen(data_size, data_len, split_data).send(split_data)
                         data_len += len(split_data)
 
                     file_info = MyClient.gen(data)
@@ -97,8 +98,8 @@ class MyClient:
 
 
     @staticmethod
-    def gen(data):
-        # data_len = 0
+    def gen(data_size, data_len, data):
+        # data_len = 0    #第一种
         # while data_len != int(data_size):
         #     data = obj.recv(800)
         #     data_len += len(data)
@@ -106,8 +107,13 @@ class MyClient:
         #     yield (data)
         # print(data_size)
         # print('act' + str(data_len))
-        for item in data:
-            yield item
+
+        # for item in data:  #第二种
+        #     yield item
+        value = yield data
+        while int(data_size) != data_len:
+            value = yield value
+            data_len += value
 
 
 
